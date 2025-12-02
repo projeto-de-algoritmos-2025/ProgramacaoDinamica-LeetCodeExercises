@@ -28,7 +28,7 @@ Abaixo estão detalhados os problemas abordados, com uma breve explicação da e
 
 ---
 ### 1. [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
-![](assets/1.png)
+![](assets/10.png)
 
 #### **Estratégia: Programação Dinâmica (Bottom-Up)** Este é um problema clássico de correspondência de padrões que exige o tratamento de caracteres curinga (`.`) e quantificadores (`*`).
 
@@ -43,12 +43,12 @@ Abaixo estão detalhados os problemas abordados, com uma breve explicação da e
 **Submissão:**
 [Submissão LeetCode 10](https://leetcode.com/problems/regular-expression-matching/submissions/1844585251)
 
-![](assets/11.png)
+![](assets/10Sub.png)
 
 ---
 
 ### 2. [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/)
-![](assets/2.png)
+![](assets/140.png)
 
 #### **Estratégia: DP Top-Down (DFS com Memoization)** Diferente da versão I deste problema (que pede apenas verdadeiro/falso), aqui precisamos listar todas as sentenças possíveis. Uma abordagem puramente iterativa (tabela) seria custosa em memória.
 
@@ -60,12 +60,12 @@ Abaixo estão detalhados os problemas abordados, com uma breve explicação da e
 **Submissão:**
 [Submissão LeetCode 140](https://leetcode.com/problems/word-break-ii/submissions/1844587145)
 
-![](assets/22.png)
+![](assets/140Sub.png)
 
 ---
 
 ### 3. [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
-![](assets/3.png)
+![](assets/85.png)
 
 #### **Estratégia: Programação Dinâmica com Histograma (Limites Left/Right)** Resolver este problema testando todas as submatrizes seria inviável. A estratégia utilizada reduz o problema 2D para uma série de problemas 1D.
 
@@ -79,7 +79,7 @@ Abaixo estão detalhados os problemas abordados, com uma breve explicação da e
 **Submissão:**
 [Submissão LeetCode 85](https://leetcode.com/problems/maximal-rectangle/submissions/1844588422)
 
-![](assets/33.png)
+![](assets/85Sub.png)
 
 ---
 
