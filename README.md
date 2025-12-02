@@ -87,8 +87,5 @@ Abaixo estão detalhados os problemas abordados, com uma breve explicação da e
 
 A explicação detalhada do raciocínio por trás de cada solução pode ser encontrada nos vídeos abaixo:
 
-[10. Regular Expression Matching](LINK_AQUI)
+[Explicacao](https://youtu.be/2CKanE5Sqnk)
 
-[140. Word Break II](LINK_AQUI)
-
-[85. Maximal Rectangle](LINK_AQUI)
